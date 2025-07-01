@@ -1,0 +1,6 @@
+/Users/yanxiaojing/IdeaProjects/spring-boot-redis-cache/src/main/java/com/techie/springbootrediscache/SpringBootRedisCacheApplication.java
+/Users/yanxiaojing/IdeaProjects/spring-boot-redis-cache/src/main/java/com/techie/springbootrediscache/controller/ProductController.java
+/Users/yanxiaojing/IdeaProjects/spring-boot-redis-cache/src/main/java/com/techie/springbootrediscache/dto/ProductDto.java
+/Users/yanxiaojing/IdeaProjects/spring-boot-redis-cache/src/main/java/com/techie/springbootrediscache/entity/Product.java
+/Users/yanxiaojing/IdeaProjects/spring-boot-redis-cache/src/main/java/com/techie/springbootrediscache/repository/ProductRepository.java
+/Users/yanxiaojing/IdeaProjects/spring-boot-redis-cache/src/main/java/com/techie/springbootrediscache/service/ProductService.java
